@@ -21,3 +21,6 @@
   <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/189470037-7d2d6c48-5d56-4e11-a9cf-002186f29223.png"/>
   <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/189470065-53e3550e-d0da-4604-b615-3974d88c064e.png"/>
 </div>
+
+
+  ![Snake animation](https://github.com/ferrarizaum/ferrarizaum/blob/output/github-contribution-grid-snake.svg)
