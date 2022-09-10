@@ -1,4 +1,4 @@
-## Olá 👋, me chamo José Ferrari e sou estudante de programação.
+## Olá <img src="https://user-images.githubusercontent.com/81978698/189470332-b954cddc-4da9-4d65-99ee-2b9090f1d102.gif" width="30"/>, me chamo José Ferrari e sou estudante de programação.
 
 <div align="center">
   <a href="https://github.com/ferrarizaum">
