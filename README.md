@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ferrarizaum">
-  <img height="180em" width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferrarizaum&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferrarizaum&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=ferrarizaum&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarizaum&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 ## Minhas redes sociais:
