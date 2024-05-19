@@ -30,13 +30,5 @@
 </div>
 
 ##
-<div align="center">
-  
-![littlecomputerpeople](https://github.com/ferrarizaum/ferrarizaum/assets/81978698/a3847403-99a9-430e-9080-b770a8028002)
-</div>
-<div align="center">
-  See ya!
-</div>
-
 
 
