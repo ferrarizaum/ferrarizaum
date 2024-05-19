@@ -1,23 +1,42 @@
-## Olá 👋, me chamo José Ferrari e sou estudante de programação.
 
 <div align="center">
-  <a href="https://github.com/ferrarizaum">
+  <img src="https://github.com/ferrarizaum/ferrarizaum/assets/81978698/3b8e08a0-c1e4-4e3b-8f2b-8a664abc2266" alt="Welcome" align="center">
 </div>
-
-## Minhas redes sociais:
-
-<div>
+<div align="center">
+  To my GitHub Profile!
+</div>
+<br/>
+<div align="center">
+  <img src="https://github.com/ferrarizaum/ferrarizaum/assets/81978698/d661b57b-5715-439c-a35a-1e1aa5b508ed" alt="Tibia Hero">
+</div> 
+<br/>
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarizaum&hide_progress=true&theme=radical)
+</div>
+<br/>
+<div display="flex" align="center">
+  <img src="https://github.com/ferrarizaum/ferrarizaum/assets/81978698/d661b57b-5715-439c-a35a-1e1aa5b508ed" alt="Tibia Hero">
+</div> 
+<div align="center">
+  
+## You can find me on:
+</div>
+<br/>
+<div align="center">
   <a href="https://instagram.com/josecferrari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-ferrari-439b4820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:licoverpa321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Badges Alura:
+##
 <div align="center">
-  <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/189469225-73881db0-a727-403f-a203-bdce6e6ac876.png"/>
-  <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/189470037-7d2d6c48-5d56-4e11-a9cf-002186f29223.png"/>
-  <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/189470065-53e3550e-d0da-4604-b615-3974d88c064e.png"/>
-  <img alt="jose-badge" width="200" src="https://user-images.githubusercontent.com/81978698/291012996-0f0a75ee-acdc-41aa-844e-e04238bf5d4a.png"/>
- 
+  
+![littlecomputerpeople](https://github.com/ferrarizaum/ferrarizaum/assets/81978698/a3847403-99a9-430e-9080-b770a8028002)
 </div>
+<div align="center">
+  See ya!
+</div>
+
+
 
