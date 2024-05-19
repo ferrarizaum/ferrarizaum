@@ -14,10 +14,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarizaum&hide_progress=true&theme=radical)
 </div>
-<br/>
-<div display="flex" align="center">
-  <img src="https://github.com/ferrarizaum/ferrarizaum/assets/81978698/d661b57b-5715-439c-a35a-1e1aa5b508ed" alt="Tibia Hero">
-</div> 
 <div align="center">
   
 ## You can find me on:
