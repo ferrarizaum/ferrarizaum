@@ -3,7 +3,9 @@
   <img src="https://github.com/ferrarizaum/ferrarizaum/assets/81978698/3b8e08a0-c1e4-4e3b-8f2b-8a664abc2266" alt="Welcome" align="center">
 </div>
 <div align="center">
+  <strong>
   To my GitHub Profile!
+  </strong>
 </div>
 <br/>
 <div align="center">
