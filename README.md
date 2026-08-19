@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-ferrari-439b4820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:licoverpa321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge" target="_blank"></a>
+  <a href = "mailto:joscferrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge" target="_blank"></a>
 </div>
 
 
